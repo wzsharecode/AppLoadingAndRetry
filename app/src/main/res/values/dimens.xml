@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="rren">40px</dimen>
+    <dimen name="en">40px</dimen>
+    <dimen name="activity_vertical_margin">30px</dimen>
+    <dimen name="activity_horizontal_margin">16px</dimen>
+
+</resources>
